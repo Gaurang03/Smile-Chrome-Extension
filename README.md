@@ -1,7 +1,7 @@
 
 # Smile Web Browser Extension
 
-An awesome Extension to lighten your mood by showing you a humourous content everytime you click on the logo of the extenion.
+An awesome Extension to lighten your mood by showing you a different humourous content everytime you click on the logo of the extenion.
 
 
 
